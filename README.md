@@ -27,16 +27,6 @@ Welcome to my GitHub profile! I'm a passionate **PHP Developer** with over 4 yea
 
 ---
 
-### 🌟 [Another Project Name](https://github.com/your-repo-link)
-**Description**: Another brief overview of a project, highlighting its importance and tech stack.  
-**Tech Stack**: [PHP], [Framework/Library], [Database]  
-**Features**: 
-- Feature 1
-- Feature 2
-- Feature 3
-
----
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
@@ -54,9 +44,9 @@ Welcome to my GitHub profile! I'm a passionate **PHP Developer** with over 4 yea
 ## 📫 Let's Connect!
 
 - **Portfolio**: [Your Portfolio Link](https://your-portfolio.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/bhanuprasad-sahu-728331121/)
-- **Twitter**: [Your Twitter Handle](https://x.com/sahub2266)
-- **Email**: [Your Email Address](mailto:sahub2266@gmail.com)
+- **LinkedIn**: [Bhanuprasad Sahu](https://www.linkedin.com/in/bhanuprasad-sahu-728331121/)
+- **Twitter**: [Bhanuprasad Sahu](https://x.com/sahub2266)
+- **Email**: [sahub2266@gmail.com](mailto:sahub2266@gmail.com)
 
 ---
 
