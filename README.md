@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bhanuprasad Sahu
 
-<!--
-**bhanuprasad-0110/bhanuprasad-0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **PHP Developer** with over 4 years of experience in building scalable, efficient, and maintainable web applications. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills
+
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: Laravel, CodeIgniter, jQuery
+- **Databases**: MySQ
+- **Version Control**: Git, GitHub
+- **Tools**: Composer
+- **Other Skills**: RESTful APIs, MVC Architecture, Object-Oriented Programming (OOP), Third-party API integrations
+
+---
+
+## 📂 Projects
+
+### 🌟 [Project Name](https://github.com/your-repo-link)
+**Description**: A brief overview of the project, its purpose, and technologies used.  
+**Tech Stack**: [PHP], [Framework/Library], [Database]  
+**Features**: 
+- Feature 1
+- Feature 2
+- Feature 3
+
+---
+
+### 🌟 [Another Project Name](https://github.com/your-repo-link)
+**Description**: Another brief overview of a project, highlighting its importance and tech stack.  
+**Tech Stack**: [PHP], [Framework/Library], [Database]  
+**Features**: 
+- Feature 1
+- Feature 2
+- Feature 3
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- Advanced Laravel concepts
+- DevOps practices (Docker, CI/CD)
+- Modern frontend frameworks (React, Vue.js)
+
+---
+
+## 📫 Let's Connect!
+
+- **Portfolio**: [Your Portfolio Link](https://your-portfolio.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/bhanuprasad-sahu-728331121/)
+- **Twitter**: [Your Twitter Handle](https://x.com/sahub2266)
+- **Email**: [Your Email Address](mailto:sahub2266@gmail.com)
+
+---
+
+⭐️ _Feel free to fork and star the repositories you find interesting! Let's collaborate on exciting projects._  
